@@ -172,13 +172,16 @@ Scenario: **Patient (Hindi/Punjabi)** + **Doctor (English/Kannada)** on video ca
 - **AI**: LangGraph · LangChain · Gemini · Whisper · OCR · Vector DB  
 - **Voice**: Twilio · Intervox · ElevenLabs  
 - **Devices**: Noise Watch · Strava · Ngrok
-- 
+
+## deployed links
+- https://nirogyaa.vercel.app/
+- https://m-app-livid.vercel.app/
 
 ## Screenshots
 
 https://drive.google.com/file/d/1RFm8fMxTzeESHpsGXYSjSmbP_ZtXaQ_Q/view?usp=sharing
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ffu7DFClbbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffu7DFClbbc?si=9z06KhIf8Pjp5BZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 https://github.com/user-attachments/assets/007ff21f-94a9-4ea2-8955-e9cb21841915
 
