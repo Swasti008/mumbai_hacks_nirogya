@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-29 at 11 01 38](https://github.com/user-attachments/assets/133541d3-714c-4233-8c61-b9fedf40451f)![WhatsApp Image 2025-11-29 at 10 59 33](https://github.com/user-attachments/assets/34a27866-a0fd-498e-b804-c643a70318a2)## Nirogya AI – Your Agentic Health Guardian
+Nirogya AI – Your Agentic Health Guardian
 
 Nirogya AI is an **agentic healthcare platform for India** that works across rural and urban settings. It uses **voice agents, multilingual video calls, smart device data, and persistent health memory** to remove language and access barriers.
 
@@ -173,19 +173,13 @@ Scenario: **Patient (Hindi/Punjabi)** + **Doctor (English/Kannada)** on video ca
 - 
 
 ## Screenshots
-![Uploading WhatsApp Image 2025-11-29 at 11.01.38.jpeg…](![WhatsApp Image 2025-11-29 at 11 02 01](https://github.com/user-attachments/assets/913e9637-dc93-4911-887c-e9bb6a885dc0)
-)
-![WhatsApp Image 2025-11-29 at 11 01 31](https://github.com/user-attachments/assets/75f2957b-da21-45f8-a511-12b549c10a40)
-![WhatsApp Image 2025-11-29 at 11 01 13](https://github.com/user-attachments/assets/2687be56-a506-4c4a-80d4-132b22b1fbdd)
-![WhatsApp Image 2025-11-29 at 11 00 57](https://github.com/user-attachments/assets/6f1d176a-8848-441b-8da2-897b35dcbd0c)
-![WhatsApp Image 2025-11-29 at 10 59 33](https://github.com/user-attachments/assets/be0d1c1d-3fdd-40f5-a299-813cbbb5d490)
-![WhatsApp Image 2025-11-29 at 10 59 24](https://github.com/user-attachments/assets/79542299-8034-41ed-8270-afa689da04db)
-
-![WhatsApp Image 2025-11-29 at 10 58 07](https://github.com/user-attachments/assets/c7afddd4-f254-4ef0-88c9-689c44359675)
-![WhatsApp Image 2025-11-29 at 10 58 01](https://github.com/user-attachments/assets/b40a9af0-6b4c-495b-aecc-1370816e77a9)
-![WhatsApp Image 2025-11-29 at 10 57 54](https://github.com/user-attachments/assets/b445e4b9-4b07-4898-80c8-dc56ba942d6c)
-![WhatsApp Image 2025-11-29 at 10 57 47](https://github.com/user-attachments/assets/05639164-8fd0-4597-be83-42a11e07321e)
-![WhatsApp Image 2025-11-29 at 10 57 40](https://github.com/user-attachments/assets/7037a365-c222-4d48-9b34-200f30de79d0)
+![WhatsApp Image 2025-11-29 at 10 59 24](https://github.com/user-attachments/assets/ceac32f8-f42e-4170-853c-961f74035622)
+![WhatsApp Image 2025-11-29 at 10 59 33](https://github.com/user-attachments/assets/8c08dcde-5b5f-4a20-b031-f80a7196bbe5)
+![WhatsApp Image 2025-11-29 at 11 00 57](https://github.com/user-attachments/assets/f2f4b641-7594-4956-9d89-9ce46e966cd8)
+![WhatsApp Image 2025-11-29 at 11 01 13](https://github.com/user-attachments/assets/6796155d-8f5e-48e4-aa52-19eccaa67873)
+![WhatsApp Image 2025-11-29 at 11 01 31](https://github.com/user-attachments/assets/918f8a86-2b3c-4bfa-8400-733ade78951b)
+![WhatsApp Image 2025-11-29 at 11 01 38](https://github.com/user-attachments/assets/29c7f639-b99e-432f-8386-739d4a29ead1)
+![WhatsApp Image 2025-11-29 at 11 02 01](https://github.com/user-attachments/assets/ee22bcc7-b403-484a-a753-9d7e00a8431f)
 
 
 
