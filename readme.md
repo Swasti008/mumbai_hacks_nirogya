@@ -177,8 +177,7 @@ Scenario: **Patient (Hindi/Punjabi)** + **Doctor (English/Kannada)** on video ca
 ## Screenshots
 
 https://drive.google.com/file/d/1RFm8fMxTzeESHpsGXYSjSmbP_ZtXaQ_Q/view?usp=sharing
-<iframe width="560" height="315" src="https://youtu.be/ffu7DFClbbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ffu7DFClbbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 https://github.com/user-attachments/assets/007ff21f-94a9-4ea2-8955-e9cb21841915
